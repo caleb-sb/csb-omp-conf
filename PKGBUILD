@@ -1,7 +1,7 @@
 # Maintainer: Caleb Bredekamp
 pkgname=csb-omp-conf-git
 _pkgname=csb-omp-conf
-pkgver=v0.0.1.r0.gb51b42a
+pkgver=v0.0.1.r1.g035ef63
 pkgrel=1
 _destname1="/etc/skel/.config/oh-my-posh/"
 pkgdesc="Caleb's oh-my-posh configuration"

@@ -63,7 +63,7 @@
       "alignment": "right",
       "segments": [
         {
-          "type": "angular",
+          "type": "node",
           "style": "diamond",
           "foreground": "#3C873A",
           "background": "#303030",
